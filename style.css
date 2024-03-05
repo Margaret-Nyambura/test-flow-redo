@@ -1,110 +1,15 @@
-#image{
-    width:auto;
-    height: 40px;
-} 
-.container{
-display: flex;
-border: 0 auto;
-background-color: white;
-border-radius: 20px;
-margin: 5%;
-padding: 2px;
-
-}
-p{
-    font-size: 15px;
-    color: darkblue;
-}
-button{
-    background-color: blue;
-    color: antiquewhite;
-    border-radius: 30px;
-    padding: 3px;
-    width: 10%;
-    
-}
-
-
-#border1{
-    border: solid 1px;
-    padding: 5%;
-    border: color white;
-    margin: 4%;
-    height: 440px;
-    width: 83%;
-    border-radius: 20px;
-    background-color:grey;
-}
-
-#border2{
-    background-color: white;
-    border-radius: 20px;
-    height: 420px;
-    width: 90%;
-    padding: 6px, 6px;
-}
-
-#text{
-    color: rgb(2, 44, 95);
-    text-align: left;
-    margin-left: 70px;
-}
-
-#paragraph{
-    margin-left: 70px;
-    color: rgb(9, 9, 144);
-}
-
-button{
-    background-color: rgb(247, 123, 78);
-    color: aliceblue;
-    border: solid 1px;
-    border-radius: 5px;
-    width:6%;
-    height: 32px;
-    text-align: center;
-}
-
-.label{
-    margin: 1%;
-    width:12%;
-    height: 30px;
-    border-radius: 5px;
-    border: solid 2px;
-}
-
-.labels{
-    margin-left: 70px; 
-    color: rgb(35, 35, 143);
-    
-}
-
-#photo{
-    position: absolute;
-    width: 30%;
-    height: 350px;
-    top: 12%;
-    right: 12%;
-    margin: 15%;
-    border-radius: 70px; 
-}
-
-h2{
-    margin-left: 70px;
-    color: rgb(4, 4, 79);
-}#container{
+#container{
     display: flex;
-    gap: 5%;
+    gap: 3%;
     background-color: rgb(3, 77, 80);
     align-items: center;
     border: 0 auto;
     padding: 1px;
     border-radius: 20px;
+    margin-top: 9%;
     margin-left: none;
-    margin-top: 10.99%;
     margin-right: none; 
-    height: 150px;
-    width: 145%;
+    height: 160px;
 
 }
 .image1{
