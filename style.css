@@ -91,48 +91,31 @@ button{
 
 h2{
     margin-left: 70px;
-    color: rgb(4, 4, 79);
+    
 }#container{
     display: flex;
-    gap: 5%;
+    gap: 40%;
     background-color: rgb(3, 77, 80);
+    column-rule-color: aliceblue;
     align-items: center;
-    border: 0 auto;
-    padding: 1px;
+    padding: 2px;
+    margin-top: 15%;
+    margin-right:5%;
     border-radius: 20px;
-    margin-left: none;
-    margin-top: 10.99%;
-    margin-right: none; 
     height: 150px;
-    width: 145%;
+    width: 120%;
+   
+
 
 }
-.image1{
-    max-width: 49px;
-    border-radius: 35px;
 
+.footer-images{
+display: flex;
+width: 50%;
+height: 40px;
+gap: 2.7%;
 }
-.image2{
-max-width: 49px;
-}
-.image3{
-    max-width: 49px;
-}
-.image4{
-    max-width: 49px;
-    border-radius: 35px;
-}
-.image5{
-    max-width:49px ;
-}
-.image6{
-    border: 10px lightcoral; 
-    max-width: 89px;
-    height: 150px;
-    padding: 0 lightcoral;
-    background-color: lightcoral;
-    border-radius: 20px;
-}
+
 b{
     color: whitesmoke;
 }
@@ -142,5 +125,7 @@ h2{
 h3{
     color: whitesmoke;
 }
+
+
 
 
